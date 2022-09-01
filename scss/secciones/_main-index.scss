@@ -1,0 +1,20 @@
+/* Index */
+
+
+main{
+    .section-1-index{
+        padding: 50px;
+        background: rgb(174,238,235);
+        background: radial-gradient(circle, rgba(174,238,235,1) 25%, rgba(228,233,148,1) 100%); 
+        .row{
+        align-items: center;
+        }
+    }
+    
+    .section-2-index{
+        padding: 50px;
+        ul{
+        list-style: none;
+        }
+    }
+}

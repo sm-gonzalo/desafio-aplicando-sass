@@ -1,0 +1,30 @@
+/* Header */
+header .navbar {
+  background: #06f0a3;
+  background: linear-gradient(130deg, #06f0a3 0%, #03e2d1 42%, #0081ff 100%); }
+  header .navbar .container-fluid img {
+    width: 150px; }
+  header .navbar .container-fluid .d-flex .btn {
+    color: black; }
+
+/* Footer */
+footer {
+  background: #06f0a3;
+  background: linear-gradient(130deg, #06f0a3 0%, #03e2d1 42%, #0081ff 100%); }
+  footer .row {
+    align-items: center; }
+  footer ul {
+    list-style: none; }
+
+/* Index */
+main .section-1-index {
+  padding: 50px;
+  background: #aeeeeb;
+  background: radial-gradient(circle, #aeeeeb 25%, #e4e994 100%); }
+  main .section-1-index .row {
+    align-items: center; }
+
+main .section-2-index {
+  padding: 50px; }
+  main .section-2-index ul {
+    list-style: none; }
