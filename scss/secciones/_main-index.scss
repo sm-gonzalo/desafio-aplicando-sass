@@ -1,6 +1,14 @@
 /* Index */
 
 
+.p-index{
+    @extend %estiloP-index;
+}
+
+.h2-index{
+    @include h2-index(15px);
+}
+
 main{
     .section-1-index{
         padding: 50px;

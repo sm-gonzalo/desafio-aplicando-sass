@@ -1,0 +1,10 @@
+%estiloP-index {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@mixin estilo-h2 ($size){
+    font-size: $size;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
